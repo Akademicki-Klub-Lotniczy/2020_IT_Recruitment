@@ -19,4 +19,11 @@ the surface to get a bare minimum - show us what you have done!
 
 ### The tasks
 
-Coming soon
+#### Web application, easy to use drone mission planner
+
+Imagine you're working on a drone-based monitoring solution for
+a company that builds railroad tracks. They want an easy-to-use
+web application, that lets them plan missions for their monitoring
+drones.
+
+moar coming soon
