@@ -65,6 +65,16 @@ system. That's why we need a converter.
 
 #
 
+#### GTA V scripting/environment modeling (for real, this is not a joke)
+
+We need training data for neural networks, and it turns out,
+that they work surprisingly good on the datasets made in GTA V.
+
+We need a dataset consisting of pictures of roads, filled with cars,
+taken from the height of 10-30 meters. Like [this picture](road.jpg)
+
+#
+
 #### A web application for streaming and processing video
 
 Let's say we have a drone with a camera, and an internet connection. We want to stream
