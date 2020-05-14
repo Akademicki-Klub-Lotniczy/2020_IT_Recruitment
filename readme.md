@@ -83,6 +83,9 @@ around the vehicles.
 - Pictures must be taken from the height of 10 to 30 meters
 - The vehicles should be varied - different colours, different cars
 
+**Nice to have features:**
+- Use police cars and ambulances in your scenes (we have to recognise them for a competition we're attending)
+
 #
 
 #### A web application for streaming and processing video
@@ -99,3 +102,8 @@ Think [video.js](https://videojs.com/), [ffmpeg](https://www.ffmpeg.org/), [webr
 **Requirements**
 - At least 480p, fluid video stream
 - Doesn't have to work on mobile, but has to work on a desktop browser
+
+
+**Nice to have features**
+- a resolution higher than 480p (720p is the target)
+- a nice deployment method (linux package or docker)
