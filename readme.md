@@ -71,7 +71,9 @@ We need training data for neural networks, and it turns out,
 that they work surprisingly good on the datasets made in GTA V.
 
 We need a dataset consisting of pictures of roads, filled with cars,
-taken from the height of 10-30 meters. Like [this picture](road.jpg)
+taken from the height of 10-30 meters. Like this picture:
+
+![road from a drone](road.jpg)
 
 #
 
