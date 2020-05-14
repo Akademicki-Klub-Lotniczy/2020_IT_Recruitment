@@ -26,4 +26,12 @@ a company that builds railroad tracks. They want an easy-to-use
 web application, that lets them plan missions for their monitoring
 drones.
 
-moar coming soon
+Required features:
+* A map view (think [leaflet](https://leafletjs.com/))
+* Ability to draw a map (preferably using markers)
+* Ability to select a fragment of the path (between two markers), and change:
+  - The speed at which the drone should traverse this fragment
+  - Whether or not the drone should take pictures while on this fragment
+* Ability to save and load the map to/from a JSON string
+
+
