@@ -19,6 +19,8 @@ the surface to get a bare minimum - show us what you have done!
 
 ### The tasks
 
+#
+
 #### Web application, easy to use drone mission planner
 
 Imagine you're working on a drone-based monitoring solution for
@@ -37,6 +39,8 @@ drones.
 **Nice to have features:**
 * Usage of a modern web framework (show us what you can do)
 * Nice UX
+
+#
 
 #### A library to convert between Geographic and carthesian coordinates
 
