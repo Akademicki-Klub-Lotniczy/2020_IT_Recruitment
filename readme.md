@@ -68,12 +68,20 @@ system. That's why we need a converter.
 #### GTA V scripting/environment modeling (for real, this is not a joke)
 
 We need training data for neural networks, and it turns out,
-that they work surprisingly good on the datasets made in GTA V.
+that they work surprisingly good on the datasets made in GTA V (and GTA V is going to be avialable for free on the Epic Store, which is a nice thing).
 
 We need a dataset consisting of pictures of roads, filled with cars,
 taken from the height of 10-30 meters. Like this picture:
 
 ![road from a drone](road.jpg)
+
+The dataset will be then used to train a neural network to detect bouding boxes
+around the vehicles.
+
+**Requirements:**
+- Provide ~100 pictures of a road filled with vehicles, from different angles (you can automate the process, GTA V supports some scripting, but you can use any crazy method that works for you)
+- Pictures must be taken from the height of 10 to 30 meters
+- The vehicles should be varied - different colours, different cars
 
 #
 
