@@ -67,7 +67,7 @@ system. That's why we need a converter.
 
 #### GTA V scripting/environment modeling (for real, this is not a joke)
 
-We need training data for neural networks, and it turns out,
+We need training data for neural networks, and it turns out
 that they work surprisingly good on the datasets made in GTA V (and GTA V is going to be avialable for free on the Epic Store, which is a nice thing).
 
 We need a dataset consisting of pictures of roads, filled with cars,
