@@ -62,3 +62,16 @@ system. That's why we need a converter.
 **Nice to have features**:
 - Visualisation of the map 
 - A GUI to draw on the map
+
+#
+
+#### A web application for streaming and processing video
+
+Let's say we have a drone with a camera, and an internet connection. We want to stream
+the video from the drone (You can simply use a Raspberry Pi with any camera) to a web server.
+
+The server will then:
+- Allow us to watch the incoming stream from a web page
+- Save the incoming stream to a file
+
+Think [video.js](https://videojs.com/), [ffmpeg](https://www.ffmpeg.org/), [webrtc](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
