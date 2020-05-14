@@ -75,3 +75,7 @@ The server will then:
 - Save the incoming stream to a file
 
 Think [video.js](https://videojs.com/), [ffmpeg](https://www.ffmpeg.org/), [webrtc](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
+
+**Requirements**
+- At least 480p, fluid video stream
+- Doesn't have to work on mobile, but has to work on a desktop browser
