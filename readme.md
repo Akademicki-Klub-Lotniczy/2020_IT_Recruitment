@@ -47,7 +47,7 @@ drones.
 It's way easier to think and build algorithms, that operate on carthesian 
 coordinate system. Unfortunately, drones and planes only operate
 on geographic coordinates (since they use GPS), which makes it hard to 
-write code that tells, whether a drone is, say, inside a square or has
+write code that tells, whether a drone is inside a certain square or has
 crossed a certain line, drawn on the ground (such operations are
 often required on competitions, for stuff like precision landing).
 
