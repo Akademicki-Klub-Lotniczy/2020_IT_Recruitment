@@ -61,7 +61,7 @@ drones.
 
 You are given a CSV/JSON (whatever you prefer) file and a bunch of images.
 The file contains description of the images (GPS coordinates, the object visible on the image).
-Generate a nice-looking report in PDF, containing the images and descriptions
+Generate a nice-looking report in PDF, containing the images and descriptions.
 
 **Requirements:**
 * Easy-readable report
