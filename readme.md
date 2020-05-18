@@ -123,3 +123,9 @@ Think [video.js](https://videojs.com/), [ffmpeg](https://www.ffmpeg.org/), [webr
 - a resolution higher than 480p (720p is the target)
 - a nice deployment method (linux package or docker)
 - the stream will also be forwarded to a neural network, that detects people on the video. Can you think how to achieve that? The network takes in image frames (we will we processing about 1/20 of the frames)
+
+### Club website updates
+
+Our [website](www.akl.pwr.edu.pl) is written in React (not by a WebDev proffesional, but I did my best).
+This is more of a creativity-focued task. If you can think of any ways to improve the site (for example, you can design
+the members tab or get translation running), show us what you can do, we can give you the site's repo.
