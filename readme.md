@@ -57,6 +57,18 @@ drones.
 
 #
 
+### PDF report generator
+
+You are given a CSV/JSON (whatever you prefer) file and a bunch of images.
+The file contains description of the images (GPS coordinates, the object visible on the image).
+Generate a nice-looking report in PDF, containing the images and descriptions
+
+**Requirements:**
+* Easy-readable report
+* Nice looking layout, fonts, formatting
+
+#
+
 ### A library to convert between Geographic and carthesian coordinates
 
 It's way easier to think and build algorithms, that operate on carthesian 
