@@ -1,13 +1,13 @@
 # 2020 IT Recruitment
 
 
-### Rules
+## Rules
 * You have one month to complete a certain task (deadline: 20th of June)
 * You can work on the task alone, or in groups of two
 * During that month, you can contact us anytime, we'll be happy to answer any questions
 * At the 20th of June, you will be presenting the results of your work, then we'll decide if you're good enough
 
-### How to win?
+## How to win?
 It's not only about "doing a certain thing you're told to do".
 Try to think forward, make suggestions on how a certain product/idea
 you're working on could be developed further, tell us about the
@@ -17,11 +17,11 @@ We appreciate the people who explore the domain of the problem
 they're working on, instead of just stratching
 the surface to get a bare minimum - show us what you have done!
 
-### The tasks
+## The tasks
 
 #
 
-#### Detecting markers with OpenCV
+### Detecting markers with OpenCV
 
 We have a dataset of images with 3 different markers - squares, triangles and circles. Example image:
 
@@ -36,7 +36,7 @@ Can you detect the position and shape of the markers?
 
 #
 
-#### Web application, easy to use drone mission planner
+### Web application, easy to use drone mission planner
 
 Imagine you're working on a drone-based monitoring solution for
 a company that builds railroad tracks. They want an easy-to-use
@@ -57,7 +57,7 @@ drones.
 
 #
 
-#### A library to convert between Geographic and carthesian coordinates
+### A library to convert between Geographic and carthesian coordinates
 
 It's way easier to think and build algorithms, that operate on carthesian 
 coordinate system. Unfortunately, drones and planes only operate
@@ -80,7 +80,7 @@ system. That's why we need a converter.
 
 #
 
-#### GTA V scripting/environment modeling (for real, this is not a joke)
+### GTA V scripting/environment modeling (for real, this is not a joke)
 
 We need training data for neural networks, and it turns out
 that they work surprisingly good on the datasets made in GTA V (and GTA V is going to be avialable for free on the Epic Store, which is a nice thing).
@@ -103,7 +103,7 @@ around the vehicles.
 
 #
 
-#### A web application for video streaming
+### A web application for video streaming
 
 Let's say we have a drone with a camera, and an internet connection. We want to stream
 the video from the drone (You can simply use a Raspberry Pi with any camera) to a web server.
