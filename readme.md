@@ -94,9 +94,9 @@ The dataset will be then used to train a neural network to detect bouding boxes
 around the vehicles.
 
 **Requirements:**
-- Provide ~100 pictures of a road filled with vehicles, from different angles (you can automate the process, GTA V supports some scripting, but you can use any crazy method that works for you)
-- Pictures must be taken from the height of 10 to 30 meters
-- The vehicles should be varied - different colours, different cars
+- Provide ~5 minutes of video of a road filled with vehicles, camera moving across different angles (you can automate the process, GTA V supports some scripting, but you can use any crazy method that works for you)
+- Video must be recorded from the height of 10 to 30 meters
+- The vehicles should vary - different colours, different cars
 
 **Nice to have features:**
 - Use police cars and ambulances in your scenes (we have to recognise them for a competition we're attending)
