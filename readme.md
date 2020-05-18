@@ -21,6 +21,21 @@ the surface to get a bare minimum - show us what you have done!
 
 #
 
+#### Detecting markers with OpenCV
+
+We have a dataset of images with 3 different markers - squares, triangles and circles. Example image:
+
+![example image](image_with_markers.jpg)
+
+Can you detect the position and shape of the markers? 
+
+**Required features**:
+* Use [OpenCV](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+* Return the position of detected markers (in pixel coordinates)
+* Return the shape of the markers (triangle, square, circle)
+
+#
+
 #### Web application, easy to use drone mission planner
 
 Imagine you're working on a drone-based monitoring solution for
