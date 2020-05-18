@@ -75,7 +75,7 @@ system. That's why we need a converter.
 * Having provided a certain point in GPS coordinates, the library should tell us whether it intersects with the squares and circles on the map, how close it is to the lines we've drawn on the map
 
 **Nice to have features**:
-- Visualisation of the map 
+- Visualisation of the map (again, think [leaflet](https://leafletjs.com/))
 - A GUI to draw on the map
 
 #
