@@ -124,6 +124,8 @@ Think [video.js](https://videojs.com/), [ffmpeg](https://www.ffmpeg.org/), [webr
 - a nice deployment method (linux package or docker)
 - the stream will also be forwarded to a neural network, that detects people on the video. Can you think how to achieve that? The network takes in image frames (we will we processing about 1/20 of the frames)
 
+#
+
 ### Club website updates
 
 Our [website](http://www.akl.pwr.edu.pl) is written in React (not by a WebDev proffesional, but I did my best).
