@@ -29,7 +29,7 @@ We have a dataset of images with 3 different markers - squares, triangles and ci
 
 Can you detect the position and shape of the markers? 
 
-**Required features**:
+**Requirements**:
 * Use [OpenCV](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 * Return the position of detected markers (in pixel coordinates)
 * Return the shape of the markers (triangle, square, circle)
