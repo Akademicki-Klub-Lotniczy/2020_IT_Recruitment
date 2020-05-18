@@ -63,6 +63,9 @@ You are given a CSV/JSON (whatever you prefer) file and a bunch of images.
 The file contains description of the images (GPS coordinates, the object visible on the image).
 Generate a nice-looking report in PDF, containing the images and descriptions.
 
+Generating mission reports is one of the tasks for a competition we're attending, that's why
+we need nice-looking reports.
+
 **Requirements:**
 * Easy-readable report
 * Nice looking layout, fonts, formatting
