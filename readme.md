@@ -126,6 +126,6 @@ Think [video.js](https://videojs.com/), [ffmpeg](https://www.ffmpeg.org/), [webr
 
 ### Club website updates
 
-Our [website](www.akl.pwr.edu.pl) is written in React (not by a WebDev proffesional, but I did my best).
+Our [website](http://www.akl.pwr.edu.pl) is written in React (not by a WebDev proffesional, but I did my best).
 This is more of a creativity-focued task. If you can think of any ways to improve the site (for example, you can design
 the members tab or get translation running), show us what you can do, we can give you the site's repo.
