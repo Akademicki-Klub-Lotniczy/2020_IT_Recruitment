@@ -154,7 +154,7 @@ Our mechanical division,have asked us to make tool to help them match their calc
 There is a website http://airfoiltools.com/ with 1636 diffrent airfoils,and your task is to make an application for searching best matching foils.Every airfoil have own data file with 7 seven diffrent variables.Mechanical division gives us their ideal charectaristcs(jpg or data sheet) we have to find airfoils with similar properties and we are only looking for airfoils polars with Reynolds number of 400k (500k)
 A polar curve is a graph which contrasts the sink rate of an aircraft (typically a glider) with its horizontal speed. 
 **Requirements:**
-*Only CL/CD graphs matching
-*Input as image or data set
+-Only CL/CD graphs matching
+-Input as image or data set
 **Nice to have features**
-*Using more than one graph to match airfoils
+-Using more than one graph to match airfoils
