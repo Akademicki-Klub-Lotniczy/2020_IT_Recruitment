@@ -15,7 +15,9 @@ observations you've made while working on your task.
 
 We appreciate the people who explore the domain of the problem
 they're working on, instead of just stratching
-the surface to get a bare minimum - show us what you have done!
+the surface to get a bare minimum - show us what sort of research you have done!
+
+**You don't have to finish the entire thing, just show us that after 2 months you're going in a right direction**
 
 ## The tasks
 
