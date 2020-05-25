@@ -95,6 +95,22 @@ system. That's why we need a converter.
 
 #
 
+### Simple web-scraper for a website with lots (and lots) of csv files
+
+[This website](http://www.airfoiltools.com/polar/details?polar=xf-ag09-il-50000) has
+lots of **polar files**, containing aerodynamical characteristics of
+wing profiles (basically some CSV files). Your task is to build a tool that will download all those profiles and
+allow people to filter through them.
+
+**Requirements**
+
+* Download all the profiles from the site (the hardest part, the rest will be easy AF, it's just hard to describe, but we'll talk about that when you're done with downloading)
+* Find the max value in all plots of a given characteristic, at a given point on the X axis
+* Sort the profiles according to some criterium
+
+
+#
+
 ### GTA V scripting/environment modeling (for real, this is not a joke)
 
 We need training data for neural networks, and it turns out
