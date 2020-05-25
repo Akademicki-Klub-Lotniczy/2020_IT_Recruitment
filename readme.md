@@ -21,7 +21,6 @@ the surface to get a bare minimum - show us what sort of research you have done!
 
 ## The tasks
 
-#
 
 ### Detecting markers with OpenCV
 
