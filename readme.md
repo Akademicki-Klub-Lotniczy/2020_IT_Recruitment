@@ -97,17 +97,17 @@ system. That's why we need a converter.
 
 ### Simple [web-scraper](https://realpython.com/beautiful-soup-web-scraper-python/) for a website with lots (and lots) of csv files, then a tool to filter them
 
-Our mechanical division,have asked us to make tool to help them match their calculations and graphs to existing airfoils.
-There is a [website](http://airfoiltools.com/) with 1636 diffrent airfoils,and your task is to make an application for searching best matching foils.Every airfoil have own data file with 7 seven diffrent variables.
+Our mechanical division has asked us to make tool to help them match their calculations and graphs to existing airfoils (wing profiles).
+There is a [website](http://airfoiltools.com/) with ~1700 diffrent airfoils and your task is to make an application for searching best matching foils. Every airfoil have own data file with 7 seven diffrent graphs.
 
 It all boils down to downloading all of the CSV files available on this website, then filtering through them. Once you're
 done with downloading, the rest will be child's play.
 
-Mechanical division gives us their ideal charectaristcs(jpg or data sheet) we have to find airfoils with similar properties and we are only looking for airfoils polars with Reynolds number of 400k (500k)
+Mechanical division gives us their ideal charectaristcs (jpg or data sheet) we have to find airfoils with similar properties and we are only looking for airfoils polars with Reynolds number of 400k (500k).
 A polar curve is a graph which contrasts the sink rate of an aircraft (typically a glider) with its horizontal speed. 
 
 You can see all the airfoils [here](http://www.airfoiltools.com/search/airfoils). After you click a certain profile,
-you get a list of polars ([like this](http://www.airfoiltools.com/polar/details?polar=xf-ag09-il-50000)), you will need to download each one of them.
+you get a list of polars ([example](http://www.airfoiltools.com/airfoil/details?airfoil=ag09-il)), you will need to download each one of them ([this is the website you will be downloading](http://www.airfoiltools.com/polar/details?polar=xf-e1210-il-50000)).
 
 **Requirements**
 
