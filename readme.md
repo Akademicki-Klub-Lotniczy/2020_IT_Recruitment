@@ -95,7 +95,7 @@ system. That's why we need a converter.
 
 #
 
-### Simple web-scraper for a website with lots (and lots) of csv files
+### Simple [web-scraper](https://realpython.com/beautiful-soup-web-scraper-python/) for a website with lots (and lots) of csv files
 
 [This website](http://www.airfoiltools.com/polar/details?polar=xf-ag09-il-50000) has
 lots of **polar files**, containing aerodynamical characteristics of
@@ -105,12 +105,17 @@ allow people to filter through them.
 You can see all the airfoils [here](http://www.airfoiltools.com/search/airfoils). After you click a certain profile,
 you get a list of polars, you will need to download each one of them.
 
+
+
 **Requirements**
 
 * Download all the profiles from the site (the hardest part, the rest will be easy AF, it's just hard to describe, but we'll talk about that when you're done with downloading)
 * Find the max value in all plots of a given characteristic, at a given point on the X axis
 * Sort the profiles according to some criterium
 
+**Nice to have features**:
+
+* Easy to use, web-based interface (think React, Heroku, Github Pages)
 
 #
 
