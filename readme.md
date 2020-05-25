@@ -2,8 +2,8 @@
 
 
 ## Rules
-* You have two months to complete a certain task (deadline: 25th of July)
-* You can work on the task alone, or in groups of two
+* You have two months to complete a task you've chosen (deadline: 25th of July)
+* You can work on the task alone, or in groups of two or three
 * During that 2 months, you can contact us anytime, we'll be happy to answer any questions
 * At the 25th of July, you will be presenting the results of your work, then we'll decide if you're good enough
 
