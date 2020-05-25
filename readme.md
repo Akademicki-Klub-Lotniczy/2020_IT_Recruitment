@@ -7,7 +7,7 @@
 * During that month, you can contact us anytime, we'll be happy to answer any questions
 * At the 20th of June, you will be presenting the results of your work, then we'll decide if you're good enough
 
-## How to win?
+## How to do the task right?
 It's not only about "doing a certain thing you're told to do".
 Try to think forward, make suggestions on how a certain product/idea
 you're working on could be developed further, tell us about the
