@@ -102,6 +102,9 @@ lots of **polar files**, containing aerodynamical characteristics of
 wing profiles (basically some CSV files). Your task is to build a tool that will download all those profiles and
 allow people to filter through them.
 
+You can see all the airfoils [here](http://www.airfoiltools.com/search/airfoils). After you click a certain profile,
+you get a list of polars, you will need to download each one of them.
+
 **Requirements**
 
 * Download all the profiles from the site (the hardest part, the rest will be easy AF, it's just hard to describe, but we'll talk about that when you're done with downloading)
