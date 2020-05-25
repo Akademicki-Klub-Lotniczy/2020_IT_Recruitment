@@ -2,10 +2,10 @@
 
 
 ## Rules
-* You have one month to complete a certain task (deadline: 20th of June)
+* You have two months to complete a certain task (deadline: 20th of July)
 * You can work on the task alone, or in groups of two
-* During that month, you can contact us anytime, we'll be happy to answer any questions
-* At the 20th of June, you will be presenting the results of your work, then we'll decide if you're good enough
+* During that 2 months, you can contact us anytime, we'll be happy to answer any questions
+* At the 20th of July, you will be presenting the results of your work, then we'll decide if you're good enough
 
 ## How to do the task right?
 It's not only about "doing a certain thing you're told to do".
