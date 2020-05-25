@@ -95,17 +95,19 @@ system. That's why we need a converter.
 
 #
 
-### Simple [web-scraper](https://realpython.com/beautiful-soup-web-scraper-python/) for a website with lots (and lots) of csv files
+### Simple [web-scraper](https://realpython.com/beautiful-soup-web-scraper-python/) for a website with lots (and lots) of csv files, then a tool to filter them
 
-[This website](http://www.airfoiltools.com/polar/details?polar=xf-ag09-il-50000) has
-lots of **polar files**, containing aerodynamical characteristics of
-wing profiles (basically some CSV files). Your task is to build a tool that will download all those profiles and
-allow people to filter through them.
+Our mechanical division,have asked us to make tool to help them match their calculations and graphs to existing airfoils.
+There is a [website](http://airfoiltools.com/) with 1636 diffrent airfoils,and your task is to make an application for searching best matching foils.Every airfoil have own data file with 7 seven diffrent variables.
+
+It all boils down to downloading all of the CSV files available on this website, then filtering through them. Once you're
+done with downloading, the rest will be child's play.
+
+Mechanical division gives us their ideal charectaristcs(jpg or data sheet) we have to find airfoils with similar properties and we are only looking for airfoils polars with Reynolds number of 400k (500k)
+A polar curve is a graph which contrasts the sink rate of an aircraft (typically a glider) with its horizontal speed. 
 
 You can see all the airfoils [here](http://www.airfoiltools.com/search/airfoils). After you click a certain profile,
-you get a list of polars, you will need to download each one of them.
-
-
+you get a list of polars ([like this](http://www.airfoiltools.com/polar/details?polar=xf-ag09-il-50000)), you will need to download each one of them.
 
 **Requirements**
 
@@ -170,19 +172,5 @@ Think [video.js](https://videojs.com/), [ffmpeg](https://www.ffmpeg.org/), [webr
 Our [website](http://www.akl.pwr.edu.pl) is written in React (not by a WebDev proffesional, but I did my best).
 This is more of a creativity-focued task. If you can think of any ways to improve the site (for example, you can design
 the members tab or get translation running), show us what you can do, we can give you the site's repo.
-
-#
-
-### Airfoil analysis tool
-Our mechanical division,have asked us to make tool to help them match their calculations and graphs to existing airfoils.
-There is a website http://airfoiltools.com/ with 1636 diffrent airfoils,and your task is to make an application for searching best matching foils.Every airfoil have own data file with 7 seven diffrent variables.Mechanical division gives us their ideal charectaristcs(jpg or data sheet) we have to find airfoils with similar properties and we are only looking for airfoils polars with Reynolds number of 400k (500k)
-A polar curve is a graph which contrasts the sink rate of an aircraft (typically a glider) with its horizontal speed. 
-
-**Requirements:**
- - Only CL/CD graphs matching
- - Input as image or data set
-
-**Nice to have features:**
- - Using more than one graph to match airfoils
 
 #
