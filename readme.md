@@ -96,6 +96,21 @@ system. That's why we need a converter.
 
 #
 
+### Real-time 3D data visualisation tool
+
+We're attending a [competition](https://www.5zywiolow.pl/droniada-po-raz-siodmy-lipiec-2020/) in which a drone must fly over 
+a highway full of cars and recognise them, then remember their positions in the environment. 
+
+We need a tool that would help us monitor the behaviour of that system in real time, preferably using (Matplotlib)[https://matplotlib.org/] to display a 3D space in which the drone and recognised cars are located.
+
+**Requirements**
+
+- Real time plotting of simple 3D blocks in Matplotlib
+- A channel for real-time communication (could be JSONs through TCP/WebSocket/UDP, can be some custom binary format, you decide the standard)
+- Receiving the current position of the drone and updating it on the screen
+- Receiving the positions of recognised cars and showing them on screen as cuboids
+- Being able to playback the log file with the same data that would normally be send through the real-time channel, to analyze the data after the flight
+
 ### Simple [web-scraper](https://realpython.com/beautiful-soup-web-scraper-python/) for a website with lots (and lots) of csv files, then a tool to filter them
 
 Our mechanical division has asked us to make tool to help them match their calculations and graphs to existing airfoils (wing profiles).
